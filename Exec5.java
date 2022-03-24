@@ -8,7 +8,7 @@ deverá apresentar na tela quantas
 */
 
 
-package Atividades;
+
 
 import java.util.Scanner;
 

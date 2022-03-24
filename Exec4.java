@@ -7,7 +7,7 @@ apresentado na tela do computador informando o problema e o programa deverá ser
 */
 
 
-package Atividades;
+
  
 import java.util.Scanner;
 

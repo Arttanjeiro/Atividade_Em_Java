@@ -1,4 +1,3 @@
-package Atividades;
 
 /**
  Atividade  é fazer um comando que  emprimir numéros e vogais 

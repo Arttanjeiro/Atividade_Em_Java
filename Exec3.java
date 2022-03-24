@@ -5,7 +5,7 @@ se não houver uma consoante posterior o programa não deverá alterar a consoan
 */
 
 
-package Atividades;
+
 
 import java.util.Scanner;
 
