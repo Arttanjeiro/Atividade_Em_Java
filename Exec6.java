@@ -1,5 +1,5 @@
 /*
-Interligando duas palavras , ultilizando laço de repetição
+Interligando duas palavras , ultilizando laço de repetição com for
 */
 import java.util.Scanner;
 
