@@ -30,6 +30,7 @@ public class Exec5 {
        
        
        
+       
         System.out.println("Milhar: " +mil);
         System.out.println("Centena: "+cent);
         System.out.println("Dezena: "+dez);
